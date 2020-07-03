@@ -1,2 +1,4 @@
-# k-shop
-🛒⠀delivery shop
+                                       
+⠀⠀⠀⠀<p align="center">
+      ![](img/jack-in-the-box.png)
+     </p>
