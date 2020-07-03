@@ -1,4 +1,4 @@
                                        
 ⠀⠀⠀⠀<p align="center">
-      ![](img/jack-in-the-box.png)
+      ![](images/home/k-shop.png)
      </p>
